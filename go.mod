@@ -1,3 +1,3 @@
-module github.com/ryanburnette/go-hash-assets
+module github.com/ryanburnette/hashref
 
-go 1.20
+go 1.23.3
